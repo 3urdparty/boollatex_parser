@@ -1,0 +1,3 @@
+[submodule "libs/strfmt"]
+	path = libs/strfmt
+	url = https://github.com/3urdparty/strfmt
