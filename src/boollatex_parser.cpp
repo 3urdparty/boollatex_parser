@@ -1,6 +1,5 @@
 #include "boollatex_parser.hpp"
 #include <strfmt/strfmt.hpp>
 
-string parseLatex(string word){
-    return splitString(word, '.')[0];
-}
+
+string expression = "ABC\\bar{D} \\oplus AB";
