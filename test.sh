@@ -1,2 +1,2 @@
 #! /bin/sh
-cd out/build; ctest ;
+cd out/build; ctest $@
